@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Contacs</string>
+    <string name="hint_search">Search...</string>
+    <string name="network_error">Нет подключения к сети</string>
+</resources>
